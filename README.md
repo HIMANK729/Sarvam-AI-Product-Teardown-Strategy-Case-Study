@@ -73,10 +73,6 @@ If you're reviewing this portfolio for a specific competency:
 
 Recent graduate of **IIIT Bhopal** (CGPA: 9.27), transitioning into Product Management. This project is part of a broader portfolio (see Project 1: "How would I build an AI product?" for a contrasting 0→1 build exercise) demonstrating the complementary PM skill of **analyzing and improving an existing product**, rather than building one from scratch.
 
-- 💼 LinkedIn: *[add your link]*
-- 📧 Email: *[add your email]*
-- 🌐 Portfolio: *[add your portfolio link]*
-
 ---
 
 ⭐ If you found this teardown useful as a template for your own PM portfolio, feel free to fork it and apply the same 18-section framework to a different product.
