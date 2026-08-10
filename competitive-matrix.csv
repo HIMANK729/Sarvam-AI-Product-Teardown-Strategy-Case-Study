@@ -1,0 +1,11 @@
+Dimension,Sarvam AI,OpenAI (Whisper/GPT),Google Cloud (STT/TTS/Translate),ElevenLabs,AssemblyAI,Krutrim (Ola)
+Indian-language support (breadth),22 languages (production+beta),Major Indian languages,10+ Indian languages,Limited Indic support,Limited Indic support,10+ Indian languages
+Code-mixed / Hinglish handling,Strong (native training),Weak-Moderate,Moderate,Weak,Weak,Moderate
+Developer API,Yes - REST + Python/JS SDK,Yes - mature SDKs,Yes - mature SDKs,Yes - TTS-focused,Yes - STT-focused,Yes - early stage
+Model capability (general reasoning),Moderate (Indic-specialized),Very strong (frontier),Strong,N/A (voice-only),N/A (STT-only),Emerging
+Voice capabilities,Full stack (ASR+TTS+voice agents),ASR strong; TTS via partners,Full stack,TTS best-in-class,ASR best-in-class,Emerging
+Pricing transparency,High - public INR pricing table,High - public USD pricing,High - public USD pricing,High - public USD pricing,High - public USD pricing,Moderate - limited public pricing
+Ease of integration,Moderate - many APIs to choose from,High - mature ecosystem,High - mature ecosystem,High - simple API,High - simple API,Moderate - early docs
+Documentation quality,Good - includes /llms.txt for AI agents,Excellent,Excellent,Good,Good,Developing
+Deployment options,Cloud + sovereign/air-gapped on-prem,Cloud only (mostly),Cloud + some on-prem,Cloud only,Cloud only,Cloud + India-hosted
+Data residency (India),Yes - core differentiator,No (US-hosted),Partial (some India regions),No,No,Yes
