@@ -22,26 +22,26 @@ This teardown follows an 18-section PM framework, applied end-to-end to Sarvam A
 
 | # | Section | What's inside |
 |---|---|---|
-| 1 | [Company & Product Overview](./docs/01-company-overview.md) | What Sarvam does, who it serves, business model, competitors |
-| 2 | [User Personas](./docs/02-user-personas.md) | Developer, Enterprise Buyer, Startup Builder, Government stakeholder |
-| 3 | [Jobs To Be Done](./docs/03-jtbd.md) | JTBD statements per persona |
-| 4 | [User Journey](./docs/04-user-journey.md) | Awareness → Monetization journey map |
-| 5 | [Product Funnel (AARRR)](./docs/05-product-funnel.md) | Acquisition through Referral |
-| 6 | [North Star Metric](./docs/06-north-star-metric.md) | A proposed NSM with rationale |
-| 7 | [Metrics Tree](./docs/07-metrics-tree.md) | Full metrics hierarchy diagram |
-| 8 | [Competitive Analysis](./docs/08-competitive-analysis.md) | Matrix vs. OpenAI, Google, ElevenLabs, Krutrim, etc. |
-| 9 | [Product Teardown](./docs/09-product-teardown.md) | Developer onboarding journey — friction & opportunities |
-| 10 | [Redesign Proposal](./docs/10-figma-redesign.md) | Use-case-first onboarding flow (wireframe spec) |
-| 11 | [Opportunity Matrix (RICE)](./docs/11-opportunity-matrix.md) | Prioritized opportunities with scoring |
-| 12 | [Product Strategy](./docs/12-product-strategy.md) | NOW / NEXT / LATER roadmap |
-| 13 | [Business Model](./docs/13-business-model.md) | Revenue, cost drivers, illustrative unit economics |
-| 14 | [Experiment Design](./docs/14-experiment-design.md) | 3 A/B test designs with guardrail metrics |
-| 15 | [Technical Understanding](./docs/15-technical-understanding.md) | API, tokens, latency, inference — explained for PMs |
-| 16 | [AI Product Metrics](./docs/16-ai-product-metrics.md) | Quality, performance, economics, adoption metrics |
-| 17 | [Risks](./docs/17-risks.md) | AI-specific and business risks |
-| 18 | [Executive Summary](./docs/18-executive-summary.md) | One-page interview-ready recommendation |
+| 1 | [Company & Product Overview]| What Sarvam does, who it serves, business model, competitors |
+| 2 | [User Personas] | Developer, Enterprise Buyer, Startup Builder, Government stakeholder |
+| 3 | [Jobs To Be Done] | JTBD statements per persona |
+| 4 | [User Journey] | Awareness → Monetization journey map |
+| 5 | [Product Funnel (AARRR)] | Acquisition through Referral |
+| 6 | [North Star Metric] | A proposed NSM with rationale |
+| 7 | [Metrics Tree]| Full metrics hierarchy diagram |
+| 8 | [Competitive Analysis] | Matrix vs. OpenAI, Google, ElevenLabs, Krutrim, etc. |
+| 9 | [Product Teardown] | Developer onboarding journey — friction & opportunities |
+| 10 | [Redesign Proposal]| Use-case-first onboarding flow (wireframe spec) |
+| 11 | [Opportunity Matrix (RICE)] | Prioritized opportunities with scoring |
+| 12 | [Product Strategy] | NOW / NEXT / LATER roadmap |
+| 13 | [Business Model]| Revenue, cost drivers, illustrative unit economics |
+| 14 | [Experiment Design]| 3 A/B test designs with guardrail metrics |
+| 15 | [Technical Understanding]| API, tokens, latency, inference — explained for PMs |
+| 16 | [AI Product Metrics] | Quality, performance, economics, adoption metrics |
+| 17 | [Risks] | AI-specific and business risks |
+| 18 | [Executive Summary] | One-page interview-ready recommendation |
 
-📎 Supporting spreadsheets: [`assets/competitive-matrix.csv`](./assets/competitive-matrix.csv) · [`assets/opportunity-matrix.csv`](./assets/opportunity-matrix.csv)
+📎 Supporting spreadsheets: [`assets/competitive-matrix.csv`] · [`assets/opportunity-matrix.csv`]
 
 ---
 
@@ -64,7 +64,6 @@ If you're reviewing this portfolio for a specific competency:
 
 - **Company facts:** sourced from sarvam.ai, docs.sarvam.ai, and public press coverage (cited within each section).
 - **Personas, JTBD, funnel, metrics tree, RICE scores:** original PM analysis built for this case study — clearly labeled as proposed/illustrative, not internal company data.
-- **Diagrams:** built with [Mermaid](https://mermaid.js.org/) so they render natively on GitHub — no external image hosting needed.
 - **Prioritization framework:** RICE (Reach × Impact × Confidence ÷ Effort).
 
 ---
