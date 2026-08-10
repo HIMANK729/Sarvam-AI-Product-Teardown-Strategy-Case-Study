@@ -2,10 +2,6 @@
 
 > An end-to-end Product Management case study analyzing **Sarvam AI**, India's full-stack sovereign AI platform — covering product strategy, user research, competitive analysis, UX teardown, metrics design, and business model analysis.
 
-[![Made for](https://img.shields.io/badge/Made%20for-PM%20Portfolio-blueviolet)]()
-[![Company](https://img.shields.io/badge/Company-Sarvam%20AI-orange)]()
-[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
-
 ---
 
 ## 👋 About this project
